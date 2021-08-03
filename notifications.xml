@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Built-in Server" displayType="STICKY_BALLOON" playSound="true" />
+  </component>
+</application>
