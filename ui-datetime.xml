@@ -1,0 +1,6 @@
+<application>
+  <component name="DateTimeFormatter">
+    <option name="overrideSystemDateFormat" value="true" />
+    <option name="use24HourTime" value="false" />
+  </component>
+</application>

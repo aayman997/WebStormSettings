@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="indicatorStyle" value="None" />
+    <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
+    <option name="userId" value="-43ece763:179e29deb33:-8000" />
+    <option name="version" value="6.8.1.2" />
+  </component>
+</application>
